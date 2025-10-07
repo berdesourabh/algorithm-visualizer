@@ -1,6 +1,6 @@
 # 🎨 Algorithm Visualizer
 
-An interactive, step-by-step algorithm visualizer with beautiful pastel themes.
+An interactive, step-by-step algorithm visualizer
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ npm run preview
 3. Select "GitHub Actions" as source
 4. Push to main branch - automatic deployment!
 
-Your site will be live at: `https://YOUR_USERNAME.github.io/algorithm-visualizer/`
+Your site will be live at: `https://berdesourabh.github.io/algorithm-visualizer/`
 
 ## 🎯 Algorithms Included
 
